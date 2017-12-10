@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ListView;
-
+//测试一下
 
 public class MainActivity extends ActionBarActivity {
 
