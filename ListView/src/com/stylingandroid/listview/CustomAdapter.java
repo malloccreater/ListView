@@ -15,7 +15,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class CustomAdapter extends BaseAdapter
-{
+{	//我就是测试一下
 	private final Context context;
 	private final List<String> items;
 	private final Map<View, Map<Integer,View>> cache = new HashMap<View, Map<Integer,View>>();
